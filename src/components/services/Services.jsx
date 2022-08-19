@@ -1,23 +1,23 @@
-import React from 'react'
-import './services.css'
+import React from 'react';
+import './services.css';
 
 function Servies() {
   return (
-    <section id='services'>
+    <section id="services">
       <h5>What I Offer</h5>
       <h2>Services</h2>
 
-      <div className='container service__container'>
+      <div className="container service__container">
         <article className="service">
           <div className="service__detalis">
             <h3>01</h3>
-            <h4>Web design</h4>
+            <h4>Software design</h4>
           </div>
         </article>
         <article className="service">
           <div className="service__detalis">
             <h3>02</h3>
-            <h4>Development</h4>
+            <h4>Software debugging</h4>
           </div>
         </article>
         <article className="service">
@@ -38,9 +38,15 @@ function Servies() {
             <h4>Full-Stack Development</h4>
           </div>
         </article>
+        <article className="service">
+          <div className="service__detalis">
+            <h3>06</h3>
+            <h4>Teamwork</h4>
+          </div>
+        </article>
       </div>
     </section>
-  )
+  );
 }
 
-export default Servies
+export default Servies;
