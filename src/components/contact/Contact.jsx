@@ -8,19 +8,7 @@ import emailjs from '@emailjs/browser';
 
 
 const Contact = () => {
-  const form = useRef();
 
-  const sendEmail = (e) => {
-    e.preventDefault();
-
-    emailjs.sendForm('service_q7oobvf', 'template_94h52uk', form.current, '2PJdFEvnLkrW2K1VC')
-    .then((result) => {
-      console.log(result.text);
-  }, (error) => {
-      console.log(error.text);
-  });
-    e.target.reset();
-  };
 
   return (
     <section id='contact'>
