@@ -11,13 +11,13 @@ function Servies() {
         <article className="service">
           <div className="service__detalis">
             <h3>01</h3>
-            <h4>Software design</h4>
+            <h4>Web design</h4>
           </div>
         </article>
         <article className="service">
           <div className="service__detalis">
             <h3>02</h3>
-            <h4>Software debugging</h4>
+            <h4>Development</h4>
           </div>
         </article>
         <article className="service">

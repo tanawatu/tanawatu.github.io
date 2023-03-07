@@ -16,42 +16,42 @@ function Experience() {
               <GiCheckMark className="experience__details-icon" />
               <div>
                 <h4>Andoid Studio</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <GiCheckMark className="experience__details-icon" />
               <div>
                 <h4>HTML</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <GiCheckMark className="experience__details-icon" />
               <div>
                 <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <GiCheckMark className="experience__details-icon" />
               <div>
                 <h4>JavaScript</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <GiCheckMark className="experience__details-icon" />
               <div>
-                <h4>flutter</h4>
-                <small className="text-light">Beginer</small>
+                <h4>TailwindCSS</h4>
               </div>
             </article>
             <article className="experience__details">
               <GiCheckMark className="experience__details-icon" />
               <div>
                 <h4>React</h4>
-                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <GiCheckMark className="experience__details-icon" />
+              <div>
+                <h4>NextJS</h4>
               </div>
             </article>
           </div>
@@ -64,28 +64,24 @@ function Experience() {
               <GiCheckMark className="experience__details-icon" />
               <div>
                 <h4>Node JS</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <GiCheckMark className="experience__details-icon" />
-              <div>
-                <h4>MogoDB</h4>
-                <small className="text-light">Beginer</small>
               </div>
             </article>
             <article className="experience__details">
               <GiCheckMark className="experience__details-icon" />
               <div>
                 <h4>PHP</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <GiCheckMark className="experience__details-icon" />
               <div>
                 <h4>MySQL</h4>
-                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <GiCheckMark className="experience__details-icon" />
+              <div>
+                <h4>NestJS</h4>
               </div>
             </article>
           </div>
